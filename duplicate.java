@@ -14,7 +14,7 @@ if(a[i]%2==0){
 }
 }
 System.out.println();
-System.out.println("sum of even element in the array : " +sum);              
+System.out.println("sum of even duplicate element in the array : " +sum);              
 }
 }
 
